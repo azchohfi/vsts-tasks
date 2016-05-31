@@ -13,6 +13,6 @@
   "loc.input.label.Package": "웹 배포 패키지",
   "loc.input.help.Package": "기본 아티팩트 디렉터리의 Visual Studio 웹 배포 패키지 경로입니다.",
   "loc.input.label.doNotDelete": "DoNotDelete 플래그 설정",
-  "loc.input.help.doNotDelete": "이 기능이 사용하도록 설정되면 웹 사이트를 게시하는 동안 웹 배포 패키지의 추가 파일이 유지됩니다.",
+  "loc.input.help.doNotDelete": "이 기능을 사용하도록 설정하면 웹 사이트를 게시하는 동안 웹 배포 패키지의 추가 파일이 유지됩니다.",
   "loc.input.label.AdditionalArguments": "추가 인수"
 }

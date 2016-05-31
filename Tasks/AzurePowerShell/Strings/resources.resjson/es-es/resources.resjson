@@ -7,7 +7,7 @@
   "loc.input.label.ConnectedServiceName": "Suscripción de Azure clásico",
   "loc.input.help.ConnectedServiceName": "Suscripción de Azure clásico para configurar antes de ejecutar PowerShell",
   "loc.input.label.ConnectedServiceNameARM": "Suscripción del Administrador de recursos de Azure",
-  "loc.input.help.ConnectedServiceNameARM": "Suscripción del Administrador de recursos de Azure para configurar antes de ejecutar PowerShell",
+  "loc.input.help.ConnectedServiceNameARM": "Suscripción de Azure Resource Manager para configurar antes de ejecutar PowerShell",
   "loc.input.label.ScriptPath": "Ruta de acceso del script",
   "loc.input.help.ScriptPath": "Ruta de acceso del script. Debe ser una ruta de acceso completa o relativa al directorio de trabajo predeterminado.",
   "loc.input.label.ScriptArguments": "Argumentos del script",

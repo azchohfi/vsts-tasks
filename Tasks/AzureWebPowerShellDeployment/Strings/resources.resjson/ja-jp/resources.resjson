@@ -13,6 +13,6 @@
   "loc.input.label.Package": "Web 配置パッケージ",
   "loc.input.help.Package": "成果物の既定のディレクトリにある Visual Studio Web 配置パッケージへのパス。",
   "loc.input.label.doNotDelete": "DoNotDelete フラグの設定",
-  "loc.input.help.doNotDelete": "これを有効にすると、Web 配置のパッケージ内の追加ファイルが Web の発行中に保持されます。",
+  "loc.input.help.doNotDelete": "これを有効にすると、Web 配置のパッケージ内の追加ファイルが Web サイトの発行中に保持されます。",
   "loc.input.label.AdditionalArguments": "追加引数"
 }
